@@ -1,0 +1,3 @@
+This lesson created for the [Molecular Sciences Software Institute](http://molssi.org/) (MolSSI) teaches users fundamentals of performing quantum chemistry calculations. The material is designed for undergraduate students, or other early career students, who have basic familiarity with python syntax, plotting with matplotlib, and using numpy. If students are unfamiliar with these python skills, we recommend the [Python Data and Scripting for Computational Molecular Science](https://molssi-education.github.io/python_scripting_cms/) lesson from MolSSI. To see the full MolSSI’s education mission statement, please see here.
+
+This material was used at the MolSSI workshop at the [MERCURY Conference on Computational Chemistry](https://mercuryconsortium.org/) in 2019.
